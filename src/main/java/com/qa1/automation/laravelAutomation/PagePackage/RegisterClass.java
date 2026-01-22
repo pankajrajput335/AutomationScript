@@ -60,6 +60,8 @@ public class RegisterClass extends BaseClass{
 	public void clickonsubmit() {
 		submit.click();
 	}
+
+	System.out.println("Pankaj Rajput");
 	
 	
 	
