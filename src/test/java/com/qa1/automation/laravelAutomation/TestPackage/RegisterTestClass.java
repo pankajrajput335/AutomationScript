@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 import com.qa1.automation.laravelAutomation.BasePackage.BaseClass;
 import com.qa1.automation.laravelAutomation.PagePackage.RegisterClass;
 
-public class RegisterTestClass extends BaseClass{
+public class RegisterTest extends BaseClass{
 	RegisterClass register;
 	
 	@BeforeMethod
