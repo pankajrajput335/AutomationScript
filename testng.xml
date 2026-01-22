@@ -10,7 +10,7 @@
   <test thread-count="5" name="Search Flight Test">
     <classes>
       <class name="com.qa1.automation.laravelAutomation.TestPackage.TestSetupClass"/>
-      <class name="com.qa1.automation.laravelAutomation.TestPackage.RegisterTestClass"/>
+      <class name="com.qa1.automation.laravelAutomation.TestPackage.RegisterTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
